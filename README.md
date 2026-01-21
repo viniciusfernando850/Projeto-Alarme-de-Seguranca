@@ -8,7 +8,7 @@
   - Sensor de Luminosidade LDR 5 mm (1x)
   - Buzzer Passivo 5 V (1x)
   - Chave Momentânea (PushButton) (1x)
-  - Resistor 10 kΩ (5x)
+  - Resistor 10 kΩ (1x)
   - Protoboard (2x)
   - Jumpers
 
