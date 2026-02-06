@@ -6,7 +6,9 @@
   - Arduino Uno (1x)
   - Diodo Laser 5 V (1x)
   - Sensor de Luminosidade LDR 5 mm (1x)
-  - Resistor 10 kΩ (5x)
+  - Buzzer Passivo 5 V (1x)
+  - Chave Momentânea (PushButton) (1x)
+  - Resistor 10 kΩ (1x)
   - Protoboard (2x)
   - Jumpers
 
@@ -35,7 +37,7 @@
 <br>
 
 🎥 **Vídeo do Funcionamento:**  
-👉 [Acesse clicando aqui!](https://youtu.be/SsBZyAJXiDw)
+👉 [Acesse clicando aqui!](https://youtu.be/NmrYu79-7XM)
 
 ---
 ## Código do Projeto
