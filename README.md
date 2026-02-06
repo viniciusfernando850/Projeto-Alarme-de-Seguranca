@@ -42,4 +42,4 @@
 ---
 ## Código do Projeto
 Quer ver como esse projeto foi programado?  
-👉 [Acesse o código clicando aqui!](src/Alarme-de-Seguranca.ino)
+👉 [Acesse o código clicando aqui!](alarme-de-seguranca/alarme-de-seguranca.ino)
