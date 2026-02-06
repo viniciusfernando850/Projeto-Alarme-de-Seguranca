@@ -37,7 +37,7 @@
 <br>
 
 🎥 **Vídeo do Funcionamento:**  
-👉 [Acesse clicando aqui!](https://youtu.be/SsBZyAJXiDw)
+👉 [Acesse clicando aqui!](https://youtu.be/NmrYu79-7XM)
 
 ---
 ## Código do Projeto
